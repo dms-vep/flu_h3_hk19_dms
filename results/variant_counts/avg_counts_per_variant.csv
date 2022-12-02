@@ -37,6 +37,8 @@ libA,221108_1_antibody_1C04-5G04_2.05_1,69.9,15,True,no
 libA,221108_1_antibody_1C04-5G04_3.08_1,40.7,15,True,no
 libA,221108_1_antibody_1C04-5G04_4.62_1,36.2,15,True,no
 libA,221108_1_antibody_1C04-5G04_6.93_1,44.5,15,True,no
+libA,221108_1_no-VEP_control_1,89.4,15,True,no
+libA,221108_1_no-VEP_control_2,74.2,15,True,no
 libA,221108_1_no-antibody_control_1,163.6,15,True,no
 libB,221108_1_antibody_1C04-5G04_1.37_1,29.1,15,True,no
 libB,221108_1_antibody_1C04-5G04_10.4_1,34.1,15,True,no
@@ -58,4 +60,6 @@ libB,221108_1_antibody_AUSAB-13_0.00222815_1,33.0,15,True,no
 libB,221108_1_antibody_AUSAB-13_0.00334222_1,35.7,15,True,no
 libB,221108_1_antibody_AUSAB-13_0.00501333_1,31.7,15,True,no
 libB,221108_1_antibody_AUSAB-13_0.00752_1,35.2,15,True,no
+libB,221108_1_no-VEP_control_1,55.2,15,True,no
+libB,221108_1_no-VEP_control_2,55.2,15,True,no
 libB,221108_1_no-antibody_control_1,110.4,15,True,no
