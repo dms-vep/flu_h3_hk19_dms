@@ -1,4 +1,4 @@
-sample,serum,library,date,serum_dilution,percent_infectivity,R1,SRA_accession
+sample,serum,library,date,serum_dilution,percent_infectivity,fastq_R1,SRA_accession
 L5-HC070097,HC070097,lib2,7/29/19,0.000401,1.88,/fh/fast/bloom_j/SR/ngs/illumina/reguia/190725_D00300_0788_AH3JCJBCX3_lane1/Unaligned/Project_reguia/Sample_L5-HC070097/*R1*.fastq.gz,
 L5-HC070021,HC070021,lib2,7/29/19,0.0004,4.46,/fh/fast/bloom_j/SR/ngs/illumina/reguia/190725_D00300_0788_AH3JCJBCX3_lane1/Unaligned/Project_reguia/Sample_L5-HC070021/*R1*.fastq.gz,
 L5-HC070041,HC070041,lib2,7/29/19,0.000625,2.02,/fh/fast/bloom_j/SR/ngs/illumina/reguia/190725_D00300_0788_AH3JCJBCX3_lane1/Unaligned/Project_reguia/Sample_L5-HC070041/*R1*.fastq.gz,
